@@ -28,6 +28,38 @@ The Flight Ticket Booking Management System is a software solution designed to a
 - Spring Boot
 - MySQL
 
+## LinkedIn
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/chamod-thilina-6a8563249/details/projects/)
+
 
 ## Project Screenshots
-![Screenshot 1](path_to_image1)
+*User Home Page*
+![Screenshot 1](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/user%20home.png)
+*About Us Page*
+<br>
+![Screenshot 3](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/about%20us.png)
+*User Login Page*
+<br>
+![Screenshot 4](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/login.png)
+*User Regitration Page*
+<br>
+![Screenshot 5](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/registration%20form.png)
+*Admin Home Page*
+<br>
+![Screenshot 6](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/admin%20home.png)
+*Add Airplane Page*
+<br>
+![Screenshot 7](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/add%20airplane.png)
+*Add Airpots Page*
+<br>
+![Screenshot 8](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/add%20airport.png)
+*Add Flight Page*
+<br>
+![Screenshot 9](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/add%20flight.png)
+*View Flight Page*
+<br>
+![Screenshot 10](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/view%20flight.png)
+*Wallet Page*
+<br>
+![Screenshot 11](https://github.com/chamod4915/Airline-reservation-system/blob/master/project%20screenshots/wallet.png)
+
