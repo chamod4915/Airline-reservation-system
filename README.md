@@ -27,3 +27,7 @@ The Flight Ticket Booking Management System is a software solution designed to a
 - Git
 - Spring Boot
 - MySQL
+
+
+## Project Screenshots
+![Screenshot 1](path_to_image1)
